@@ -1,6 +1,6 @@
 # OpenCV
 
-(https://prateekvjoshi.files.wordpress.com/2015/10/1-main.png)
+![OpenCV](https://prateekvjoshi.files.wordpress.com/2015/10/1-main.png)
 
 ## OpenCV Nedir?
 
