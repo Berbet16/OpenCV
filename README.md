@@ -1,5 +1,7 @@
 # OpenCV
 
+(https://prateekvjoshi.files.wordpress.com/2015/10/1-main.png)
+
 ## OpenCV Nedir?
 
 OpenCV (Open Source Computer Vision Library, anlamı Açık Kaynak Bilgisayar Görüsü Kütüphanesi) gerçek-zamanlı bilgisayar görüsü uygulamalarında kullanılan açık kaynaklı kütüphanesidir. 
