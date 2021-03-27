@@ -1,4 +1,4 @@
-# OpenCV
+# Python Dilinde OpenCV ile Görüntü İşleme
 
 ![OpenCV](https://prateekvjoshi.files.wordpress.com/2015/10/1-main.png)
 
